@@ -1,0 +1,17 @@
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\bin\Debug\OficinaMecanica.exe.config
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\bin\Debug\OficinaMecanica.exe
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\bin\Debug\OficinaMecanica.pdb
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.Properties.Resources.resources
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.exe
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.pdb
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.TelaDeLogin.resources
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.TelaPrincipal.resources
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.TelaDeCadastroClientes.resources
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.csproj.CopyComplete
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\bin\Debug\Correios.dll
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\bin\Debug\Correios.pdb
+C:\Users\Usuário\Documents\Desenvolvimento\projetoC#\ProjetoOficina\OficinaMecanica\OficinaMecanica\obj\Debug\OficinaMecanica.TelaDeCadastroFuncionarios.resources
