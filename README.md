@@ -1,5 +1,5 @@
 # Projeto para sorveterias / açaiterias 🍦
-Sistema para sorveterias para meios didáticos, utilizado Entity Framework , C# ,  SQL Server 2019 , ambiende de desenvolvimento Visual Studio.
+Sistema para sorveterias para meios didáticos, utilizado Entity Framework , C# ,  SQL Server 2019 , ambiente de desenvolvimento Visual Studio.
 ## Funcionalidades do sistema 💻
 - **Cadastro de Clientes:** Permite o registro de informações dos clientes, incluindo nome, contato.
 
